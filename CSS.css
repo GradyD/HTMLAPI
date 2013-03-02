@@ -1,14 +1,29 @@
 .api {
-margin-top: 1em;
-padding: 1em;
-background-color: #e2e2e2;
-border: 1px solid #C9C9C9;
-box-shadow: 0 0 2px #C9C9C9;
--moz-box-shadow: 0 0 2px #C9C9C9;
--webkit-box-shadow: 0 0 2px #C9C9C9;
-border-radius: 3px;
--moz-border-radius: 3px;
--khtml-border-radius: 3px;
--webkit-border-radius: 3px;
-display: inline-block;
+	margin-top: 1em;
+	margin: 0 auto; 
+	padding: 1em;
+	max-width: 700px;
+	height: 116px;
+	background-color: #e2e2e2;
+	border: 0px solid #C9C9C9;
+	box-shadow: 0 0 2px #C9C9C9;
+	-moz-box-shadow: 0 0 2px #C9C9C9;
+	-webkit-box-shadow: 0 0 2px #C9C9C9;
+	border-radius: 0px;
+	-moz-border-radius: 0px;
+	-khtml-border-radius: 0px;
+	-webkit-border-radius: 0px;
+	display: inline-block;
+} 
+
+.api,
+.appbrain-app {
+	float:left;
+}
+
+.appbrain-app {
+	background-color: #e2e2e2;
+	font-size: 11px; 
+	font-family: Arial, sans-serif;
+	color: #555; 
 }
