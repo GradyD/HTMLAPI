@@ -14,6 +14,7 @@ Paste the CSS inside you style.css. I have only tested this with Wordpress. If y
 You can tweet @aDroidman
 
 Changelog: <br>
+V1.4- Cleaned up CSS and added rounded corners back in to give it some style. <br>
 V1.3-<strong>Major Code Cleanup</strong>- Removed all inline styling, Removed unneeded tags, General cleanup. <br>
 V1.2- Removed unneeded Padding CSS, replaced Play Image, and cleaned up code. <br>
 V1.1- Initial Release
